@@ -15,7 +15,7 @@
 * 如果我们还没有用Android Studio打开过项目，会看到欢迎页，点击New Project。
 * 如果已经用Android Studio打开过项目，点击菜单中的File，选择New Project来创建一个新的项目。
 
-2\.  参照图1在弹出的窗口（**Configure your new project**）中填入内容，点击**Next**。按照如图所示的值进行填写会使得后续的操作步骤不不容易差错。
+2\.  参照图1在弹出的窗口（**Configure your new project**）中填入内容，点击**Next**。按照如图所示的值进行填写会使得后续的操作步骤不容易出差错。
 
 * **Application Name**此处填写想呈现给用户的应用名称，此处我们使用“My First App”。
 * **Company domain** 包名限定符，Android Studio会将这个限定符应用于每个新建的Android项目。
@@ -31,7 +31,7 @@
 
 5\. 不要勾选其他选项 (TV, Wear, and Glass) ，点击 **Next**.
 
-6\. 在**Add an activity to *<template\>*** 窗口选择**Blank Activity**，点击 **Next**.
+6\. 在**Add an activity to *<template\>*** 窗口选择**Basic Activity**，点击 **Next**.
 
 7\. 在**Choose options for your new file** 窗口修改**Activity Name** 为*MyActivity*，修改 **Layout Name** 为*activity\_my*，**Title** 修改为*MyActivity*，**Menu Resource Name** 修改为*menu_my*。
 
